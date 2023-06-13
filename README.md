@@ -1,4 +1,4 @@
-# diablo 2server manager
+# diablo 2 server manager
 
 Server manager for Diablo II (d2gs + pvpgn).
 Open sln file with Visual Studio and should compile with no issues.
